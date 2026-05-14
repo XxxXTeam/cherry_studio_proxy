@@ -1,6 +1,6 @@
 ## cherry-studio-proxy
 
-OpenAI-compatible Axum proxy for Cherry Studio `chat/completions`, with minimal request/response rewriting.
+> “An OpenAI-compatible proxy that exposes Cherry Studio-backed models through standard /v1/chat/completions endpoints.”
 
 ### Features
 
